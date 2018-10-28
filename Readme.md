@@ -13,7 +13,7 @@ docker run -it -d -p 3306:3306 --name my-mysql \
 mysql
 ```
 
-Alpine:
+**Alpine**:
 
 Built to mount a binary and run it.
 * Build `docker build -t alpine .`
